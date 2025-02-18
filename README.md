@@ -52,7 +52,7 @@
 
     <div class="video-container">
         <h2>Explainer Video</h2>
-        <iframe src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/rr12rWVRUAg" allowfullscreen></iframe>
     </div>
 
 </body>
